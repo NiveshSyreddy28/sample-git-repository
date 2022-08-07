@@ -1,0 +1,2 @@
+This is a feature to delete the message.
+With this feature you can delete the message that you've sent recently.
